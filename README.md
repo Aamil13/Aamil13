@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aamil.shafi13@gmail.com**
 
-- 📄 Get my resume [https://drive.google.com/file/d/1TLYOVKePLL5PGSiHiCkKQTgO7ztLGvOU/view](https://drive.google.com/file/d/1TLYOVKePLL5PGSiHiCkKQTgO7ztLGvOU/view)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
