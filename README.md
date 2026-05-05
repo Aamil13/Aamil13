@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-Software Developer with 1+ year of professional experience building scalable web and mobile applications. Currently working as **SDE-1 at Unibuzz Networks**, where I've contributed to a university social platform adopted through an official MoU and featured in local press.
+Software Developer with 2+ year of professional experience building scalable web and mobile applications. Currently working as **SDE-1 at Unibuzz Networks**, where I've contributed to a university social platform adopted through an official MoU and featured in local press.
 
 - 🔭 **Current Role:** Software Development Engineer-1 at Unibuzz Networks
 - 📱 Built and deployed a **React Native app with 39+ screens** on Google Play Store with international downloads
