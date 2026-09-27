@@ -7,10 +7,11 @@
 
 ## 🚀 About Me
 
-Software Developer with 2+ year of professional experience building scalable web and mobile applications. Currently working as **SDE-1 at Unibuzz Networks**, where I've contributed to a university social platform adopted through an official MoU and featured in local press.
+Software Developer with 2.6+ years of experience building scalable web and mobile applications with the MERN stack, TypeScript, Next.js, and React Native. Most recently **SDE-1 at Unibuzz Networks**, where I took full ownership of the web, backend, and mobile app for a university social platform — now adopted by universities through official MoUs and featured in local press. **Currently open to new opportunities.**
 
-- 🔭 **Current Role:** Software Development Engineer-1 at Unibuzz Networks
-- 📱 Built and deployed a **React Native app with 39+ screens** on Google Play Store with international downloads
+- 💼 **Most Recent Role:** Software Development Engineer-1 at Unibuzz Networks (Apr 2024 – Jul 2026)
+- 🎓 **Platform Adoption:** MoUs signed with 2 universities, with a 3rd partnership in progress
+- 📱 Built and deployed a **React Native app with 39+ screens** on the Google Play Store, with international downloads
 - 🏗️ Developed **28+ MongoDB models** with complex aggregation pipelines
 - ☁️ Experienced with **AWS (EC2, S3, SQS)**, Docker, and CI/CD pipelines
 - 🤖 Built production-ready **AI applications** using RAG, LangChain, and Google Gemini
@@ -20,12 +21,13 @@ Software Developer with 2+ year of professional experience building scalable web
 
 ## 💼 Professional Highlights
 
-- **Published Mobile App:** React Native application with 39+ screens live on Google Play Store
-- **Real-time Systems:** Built messaging and notification systems using Socket.IO and Firebase
-- **Background Processing:** Implemented job queues with BullMQ, Redis, and AWS SQS
-- **Platform Adoption:** Contributed to a platform officially adopted by a university through MoU
-- **Analytics Integration:** Integrated Mixpanel for user engagement tracking
-- **AI/ML Projects:** Built RAG-based PDF chat application using LangChain and vector embeddings
+- **Sole Developer, Full Platform:** Took full ownership of Unibuzz's v2 platform as the only engineer under the CTO — web frontend, backend, and mobile app, end-to-end.
+- **Real University Adoption:** Platform officially adopted by 2 universities through signed MoUs, with a 3rd partnership underway and coverage in local media.
+- **Published Mobile App:** React Native application with 39+ screens live on the Google Play Store, used by real students across multiple countries.
+- **Real-time Systems:** Built messaging and notification systems using Socket.IO, Firebase Cloud Messaging, BullMQ, and Redis — later migrated queues to AWS SQS.
+- **Data at Scale:** Designed 28+ MongoDB models and aggregation pipelines powering user profiles, communities, and messaging.
+- **Analytics & Monitoring:** Integrated Mixpanel for engagement tracking and AWS for production monitoring.
+- **AI/ML Projects:** Built a RAG-based PDF chat application using LangChain, Google Gemini, and vector embeddings.
 
 ## 🛠️ Tech Stack
 
@@ -62,24 +64,29 @@ Software Developer with 2+ year of professional experience building scalable web
 
 ### 🤖 AI PDF Chat Application (RAG System)
 **Next.js | TypeScript | LangChain | Gemini | Convex**
-- Built RAG pipeline with PDF parsing, chunking, and vector embeddings
-- Implemented similarity search using ConvexVectorStore
+- Built a RAG pipeline with PDF parsing, chunking, and vector embeddings
+- Implemented similarity search using Convex Vector Store
 - Metadata-based filtering for document-specific queries
-- [GitHub](link) | [Live Demo](link)
+- [GitHub](https://github.com/Aamil13/AI-PDF-Notes-CONVEX) | [Live Demo](https://ai-pdf-notes-convex.vercel.app/)
+
+### 🏨 Full-Stack Booking Platform
+**Next.js | TypeScript | Node.js | Express | MongoDB | Redux Toolkit**
+- Built separate customer and admin apps backed by RESTful Node.js/Express APIs
+- Designed MongoDB/Mongoose models for auth, users, properties, rooms, and bookings
+- Built an admin dashboard with React Query, Zustand, and Ant Design
+- [GitHub — Frontend](https://github.com/Aamil13/Booking_app_Frontend) | [Live — Frontend](https://nextbookingappmern.vercel.app/) | [GitHub — Admin](https://github.com/Aamil13/Booking_app_Admin) | [Live — Admin](https://nextbookingadmin.netlify.app/)
 
 ### 🎮 Wordle Mobile Game
 **React Native | Expo | TypeScript | SQLite**
-- 39+ screens with modular architecture and atomic design
-- State management with Zustand
-- Local persistence using SQLite and AsyncStorage
-- Animations, haptics, and sound effects
-- Node.js backend in development
-- [GitHub](link) 
-
-
+- Modular architecture with atomic design and reusable components
+- State management with Zustand and React Context
+- Local persistence with SQLite and AsyncStorage
+- Animations, haptics, and sound effects via Expo APIs
+- Node.js/Express/MongoDB backend for auth and progress tracking
+- [GitHub](link)
 
 ---
 
 <p align="center">
-  <i>⚡ "Building scalable solutions, one commit at a time"</i>
+  <i>⚡ Currently open to new opportunities — let's build something great together</i>
 </p>
